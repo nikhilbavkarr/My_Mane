@@ -1,107 +1,108 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\",
+  "WorkspaceRootPath": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\model\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\controllers\\pgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\controllers\\pgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\controllers\\pgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\my_mane.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\my_mane.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\my_mane.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\controllers\\houserentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\controllers\\houserentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\controllers\\houserentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\controllers\\commercialrentleasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\controllers\\commercialrentleasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\controllers\\commercialrentleasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\model\\houserent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\model\\houserent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\model\\houserent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\model\\commercialrentlease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\model\\commercialrentlease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\model\\commercialrentlease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\model\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\model\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\model\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\model\\pg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\model\\pg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\model\\pg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\migrations\\20250225134206_updateauthsetup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\migrations\\20250225134206_updateauthsetup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\migrations\\20250225134206_updateauthsetup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaitra\\source\\repos\\sample\\sample\\sample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\migrations\\20250223155153_updateauthsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\migrations\\20250223155153_updateauthsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\migrations\\20250223155153_updateauthsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:My_Mane\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\nikhi\\source\\repos\\my_mane\\my_mane\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|c:\\users\\chaitra\\source\\repos\\my_mane_solution\\my_mane\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{75C67B5F-3886-4997-BEF4-4B21BA7C43CE}|My_Mane\\My_Mane.csproj|solutionrelative:my_mane\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -112,19 +113,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PGController.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\PGController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\PGController.cs",
               "RelativeDocumentMoniker": "My_Mane\\Controllers\\PGController.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\PGController.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\PGController.cs",
               "RelativeToolTip": "My_Mane\\Controllers\\PGController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,11 +131,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "My_Mane\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\UserController.cs",
               "RelativeToolTip": "My_Mane\\Controllers\\UserController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwC4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T18:08:56.347Z",
               "EditorCaption": ""
@@ -147,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "My_Mane.csproj",
-              "DocumentMoniker": "C:\\Users\\nikhi\\Source\\Repos\\My_Mane\\My_Mane\\My_Mane.csproj",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\My_Mane.csproj",
               "RelativeDocumentMoniker": "My_Mane\\My_Mane.csproj",
-              "ToolTip": "C:\\Users\\nikhi\\Source\\Repos\\My_Mane\\My_Mane\\My_Mane.csproj",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\My_Mane.csproj",
               "RelativeToolTip": "My_Mane\\My_Mane.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -159,45 +156,48 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Services\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Services\\Repository.cs",
               "RelativeDocumentMoniker": "My_Mane\\Services\\Repository.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Services\\Repository.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Services\\Repository.cs",
               "RelativeToolTip": "My_Mane\\Services\\Repository.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAUwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T18:05:27.373Z"
+              "WhenOpened": "2025-02-23T18:05:27.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UserInfo.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\UserInfo.cs",
               "RelativeDocumentMoniker": "My_Mane\\Model\\UserInfo.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\UserInfo.cs",
               "RelativeToolTip": "My_Mane\\Model\\UserInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:27:27.343Z"
+              "WhenOpened": "2025-02-23T15:27:27.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\AppDbContext.cs",
               "RelativeDocumentMoniker": "My_Mane\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\AppDbContext.cs",
               "RelativeToolTip": "My_Mane\\AppDbContext.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAuwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:32:36.728Z"
+              "WhenOpened": "2025-02-23T15:32:36.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "PropertyController.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\PropertyController.cs",
               "RelativeDocumentMoniker": "My_Mane\\Controllers\\PropertyController.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\PropertyController.cs",
               "RelativeToolTip": "My_Mane\\Controllers\\PropertyController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,9 +207,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "OwnerController.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\OwnerController.cs",
               "RelativeDocumentMoniker": "My_Mane\\Controllers\\OwnerController.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\OwnerController.cs",
               "RelativeToolTip": "My_Mane\\Controllers\\OwnerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,9 +219,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Program.cs",
               "RelativeDocumentMoniker": "My_Mane\\Program.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Program.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Program.cs",
               "RelativeToolTip": "My_Mane\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -231,9 +231,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "HouseRentController.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\HouseRentController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\HouseRentController.cs",
               "RelativeDocumentMoniker": "My_Mane\\Controllers\\HouseRentController.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\HouseRentController.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\HouseRentController.cs",
               "RelativeToolTip": "My_Mane\\Controllers\\HouseRentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,9 +243,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CommercialRentLeaseController.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\CommercialRentLeaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\CommercialRentLeaseController.cs",
               "RelativeDocumentMoniker": "My_Mane\\Controllers\\CommercialRentLeaseController.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\CommercialRentLeaseController.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\CommercialRentLeaseController.cs",
               "RelativeToolTip": "My_Mane\\Controllers\\CommercialRentLeaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,9 +255,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "My_Mane\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Controllers\\BlogController.cs",
               "RelativeToolTip": "My_Mane\\Controllers\\BlogController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,9 +267,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "HouseRent.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\HouseRent.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\HouseRent.cs",
               "RelativeDocumentMoniker": "My_Mane\\Model\\HouseRent.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\HouseRent.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\HouseRent.cs",
               "RelativeToolTip": "My_Mane\\Model\\HouseRent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAABBwAkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,9 +279,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Owner.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\Owner.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\Owner.cs",
               "RelativeDocumentMoniker": "My_Mane\\Model\\Owner.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\Owner.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\Owner.cs",
               "RelativeToolTip": "My_Mane\\Model\\Owner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,9 +291,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "CommercialRentLease.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\CommercialRentLease.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\CommercialRentLease.cs",
               "RelativeDocumentMoniker": "My_Mane\\Model\\CommercialRentLease.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\CommercialRentLease.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\CommercialRentLease.cs",
               "RelativeToolTip": "My_Mane\\Model\\CommercialRentLease.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -303,9 +303,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Blog.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\Blog.cs",
               "RelativeDocumentMoniker": "My_Mane\\Model\\Blog.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\Blog.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\Blog.cs",
               "RelativeToolTip": "My_Mane\\Model\\Blog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -315,9 +315,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Contracts\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Contracts\\IRepository.cs",
               "RelativeDocumentMoniker": "My_Mane\\Contracts\\IRepository.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Contracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Contracts\\IRepository.cs",
               "RelativeToolTip": "My_Mane\\Contracts\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,9 +327,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "PG.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\PG.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\PG.cs",
               "RelativeDocumentMoniker": "My_Mane\\Model\\PG.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\PG.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\PG.cs",
               "RelativeToolTip": "My_Mane\\Model\\PG.cs",
               "ViewState": "AQIAAAMAAACYmZmZmRkjwAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -339,9 +339,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Property.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\Property.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\Property.cs",
               "RelativeDocumentMoniker": "My_Mane\\Model\\Property.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Model\\Property.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Model\\Property.cs",
               "RelativeToolTip": "My_Mane\\Model\\Property.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAADwvwwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,9 +351,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "20250225134206_UpdateAuthSetup1.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Migrations\\20250225134206_UpdateAuthSetup1.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Migrations\\20250225134206_UpdateAuthSetup1.cs",
               "RelativeDocumentMoniker": "My_Mane\\Migrations\\20250225134206_UpdateAuthSetup1.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Migrations\\20250225134206_UpdateAuthSetup1.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Migrations\\20250225134206_UpdateAuthSetup1.cs",
               "RelativeToolTip": "My_Mane\\Migrations\\20250225134206_UpdateAuthSetup1.cs",
               "ViewState": "AQIAAJQAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,9 +364,9 @@
               "DocumentIndex": 20,
               "Title": "sample.csproj",
               "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\sample\\sample\\sample.csproj",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Chaitra\\source\\repos\\sample\\sample\\sample.csproj",
+              "RelativeDocumentMoniker": "..\\sample\\sample\\sample.csproj",
               "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\sample\\sample\\sample.csproj",
-              "RelativeToolTip": "..\\..\\..\\..\\Chaitra\\source\\repos\\sample\\sample\\sample.csproj",
+              "RelativeToolTip": "..\\sample\\sample\\sample.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-24T15:40:17.854Z"
@@ -375,9 +375,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "20250223155153_UpdateAuthSetup.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Migrations\\20250223155153_UpdateAuthSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Migrations\\20250223155153_UpdateAuthSetup.cs",
               "RelativeDocumentMoniker": "My_Mane\\Migrations\\20250223155153_UpdateAuthSetup.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Migrations\\20250223155153_UpdateAuthSetup.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Migrations\\20250223155153_UpdateAuthSetup.cs",
               "RelativeToolTip": "My_Mane\\Migrations\\20250223155153_UpdateAuthSetup.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAQwD8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -387,9 +387,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "My_Mane\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "My_Mane\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAKwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -399,9 +399,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\appsettings.json",
               "RelativeDocumentMoniker": "My_Mane\\appsettings.json",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\appsettings.json",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\appsettings.json",
               "RelativeToolTip": "My_Mane\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -411,9 +411,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "My_Mane\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nikhi\\source\\repos\\My_Mane\\My_Mane\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Properties\\launchSettings.json",
               "RelativeToolTip": "My_Mane\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -424,9 +424,9 @@
               "DocumentIndex": 24,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "My_Mane\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Chaitra\\source\\repos\\My_Mane_Solution\\My_Mane\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "My_Mane\\Data\\ApplicationDbContext.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T17:38:47.877Z"
             }
